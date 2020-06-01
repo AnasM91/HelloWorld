@@ -1,0 +1,13 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 14F9-FC1C
+
+ R‚pertoire de C:\Users\Anas\Desktop\JENKINS\Hello
+
+01/06/2020  19:22    <REP>          .
+01/06/2020  19:22    <REP>          ..
+01/06/2020  18:44               675 Hello.class
+01/06/2020  18:44               152 Hello.java
+31/05/2020  23:59                 0 set
+01/06/2020  19:22                 0 test1.txt
+               4 fichier(s)              827 octets
+               2 R‚p(s)  145ÿ279ÿ918ÿ080 octets libres
